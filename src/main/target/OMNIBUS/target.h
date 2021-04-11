@@ -66,7 +66,7 @@
 #define USE_UART2
 #define USE_UART3
 #define USE_SOFTSERIAL1
-#define USE_SOFTSERIAL2
+//#define USE_SOFTSERIAL2
 
 #define SERIAL_PORT_COUNT       6
 
